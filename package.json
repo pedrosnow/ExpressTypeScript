@@ -14,7 +14,7 @@
     "typescript": "^5.0.2"
   },
   "scripts": {
-    "dev": "nodemon ./src/app.ts",
+    "dev": "nodemon ./server.ts",
     "build": "tsc"
   },
   "keywords": [],

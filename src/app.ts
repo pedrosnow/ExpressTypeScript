@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
   res.send('sss')
 })
 
-export { app, port }
+export { app }
 
